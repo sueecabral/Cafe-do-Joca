@@ -1,0 +1,44 @@
+
+/* Barra de navegação */
+header, .navbar {
+    background-color: #353D41;
+  }
+  
+  #nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  #logo {
+    width: 65px;
+    margin-right: 15px;
+    margin-left: -40px;
+  }
+
+  #navbarSupportedContent {
+    margin-left: 680px;
+  }
+
+  #navbar-links a {
+    color: #FFF;
+    
+  }
+  
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+  }
+  
+  .nav-item.active {
+    border-bottom: 3px solid #FFF;
+  }
+
+  #carouselExampleCaptions .carousel-inner, #carouselExampleCaptions .carousel-item {
+    height: 80vh;
+  }
+  
+ 
+ 
+
+ 
+
+  
